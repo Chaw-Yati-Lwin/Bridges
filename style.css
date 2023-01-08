@@ -1,0 +1,56 @@
+body{
+    background-color: peachpuff;
+    text-align: center;
+}
+
+p{
+    color: black;
+}
+
+img{
+    margin: 15px;
+    width: 450px;
+}
+
+a{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#nav {
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+button:hover{
+    background-color: gray;
+    color: pink;
+}
+
+.bridge-a, .bridge-a p{
+    background-color: black;
+    color: yellow;
+    margin: 0px -8px;
+    padding: 5px 20px;
+}
+
+.bridge-b, .bridge-b p{
+    background-color: gray;
+    color: yellow;
+    margin: 0px -8px;
+    padding: 5px 20px;
+}
+
+.bridge-c{
+    background-color: black;
+    color: yellow;
+    margin: 0px -8px;
+    padding: 5px 20px;
+}
+
+.bridge-d{
+    background-color: gray;
+    color: yellow;
+    margin: 0px -8px;
+    padding: 5px 20px;
+}
